@@ -1,0 +1,51 @@
+Title: I'll put you in misery
+Is it in the library: true
+Playing Time (in minutes): 33
+Copyright Year: 2021
+------
+Title: It's Raining After All
+Is it in the library: true
+Playing Time (in minutes): 34
+Copyright Year: 2020
+------
+Title: I Want to Eat Your Pancreas
+Is it in the library: true
+Playing Time (in minutes): 118
+Copyright Year: 2019
+------
+Title: Rush Hour
+Is it in the library: true
+Playing Time (in minutes): 117
+Copyright Year: 1999
+------
+Title: No Longer Human
+Is it in the library: true
+Playing Time (in minutes): 253
+Copyright Year: 1948
+------
+Title: Kokoro
+Is it in the library: true
+Playing Time (in minutes): 428
+Copyright Year: 1957
+------
+Is "I'll put you in misery" in the library? false
+Is "It's Raining After All" in the library? false
+Is "I Want to Eat Your Pancreas" in the library? false
+Is "Rush Hour" in the library? true
+Is "No Longer Human" in the library? true
+Is "Kokoro" in the library? true
+
+CD: Title: I'll put you in misery, Artist: TUYU, Number of tracks: 12, Is it in the collection: false, Playing time (in minutes): 33, Copyright year: 2021
+CD: Title: It's Raining After All, Artist: TUYU, Number of tracks: 11, Is it in the collection: false, Playing time (in minutes): 34, Copyright year: 2020
+DVD: Title: I Want to Eat Your Pancreas, Rating: 13+, Playing time (in minutes): 118, Bonus features time (in minutes): 10, Is it in the collection: false, Copyright year: 2019
+DVD: Title: Rush Hour, Rating: PG-13, Playing time (in minutes): 117, Bonus features time (in minutes): 20, Is it in the collection: true, Copyright year: 1999
+AudioBook: Title: No Longer Human, Author: Osamu Dazai, Narrator: danosarchive, Is it in the collection: true, Playing Time (in minutes): 253, Copyright year: 1948
+AudioBook: Title: Kokoro, Author: Natsume Soseki, Narrator: Matt Shea, Is it in the collection: true, Playing Time (in minutes): 428, Copyright year: 1957
+
+The library in alphabetical order: 
+1)I Want to Eat Your Pancreas
+2)I'll put you in misery
+3)It's Raining After All
+4)Kokoro
+5)No Longer Human
+6)Rush Hour
